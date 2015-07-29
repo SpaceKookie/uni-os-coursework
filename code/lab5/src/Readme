@@ -1,0 +1,9 @@
+Usage:
+./tcd[_nolock|_biglock] [num_of_collectors [amount_of_money]]
+
+e.g.
+
+./tcd       -> starts with 5 collectors and 300 Euro
+./tcd 3     -> starts with 3 collectors and 300 Euro
+./tcd 4 200 -> starts with 4 collectors and 200 Euro
+

@@ -1,0 +1,1 @@
+cmd_/home/osp/to_mount/osp-vm/resources/src/sarlkm.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-29-generic/scripts/module-common.lds --build-id  -o /home/osp/to_mount/osp-vm/resources/src/sarlkm.ko /home/osp/to_mount/osp-vm/resources/src/sarlkm.o /home/osp/to_mount/osp-vm/resources/src/sarlkm.mod.o

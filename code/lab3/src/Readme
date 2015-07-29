@@ -1,0 +1,7 @@
+make - baut alles
+make clean - macht ordnung
+make pack - packt alles zusammen (../lab-2.tar). Genau dieses tar bei goya hochladen
+
+test.txt - enthaelt Befehle, welche beim Testen in genau dieser Reihenfolge eingegeben werden
+
+tmp - Ordner, der fuer das Testen wichtig ist

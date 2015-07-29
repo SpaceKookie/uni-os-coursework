@@ -1,0 +1,5 @@
+*.ovl
+*.img
+*xcuserdata*
+.DS_Store
+lab-4.tar
